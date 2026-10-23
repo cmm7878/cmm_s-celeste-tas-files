@@ -436,21 +436,6 @@ EndStunPause
   22,R,D,X
   39,R,J
   15,R,X
-
-#    4,R,J
-#    1,R,K,G
-#    3,R
-#   11,R,D,X
-#    3,R,J
-#   10,R,K,G
-#   14,R,D,X
-#    1,R,J
-#   11,R,D,X
-#    1,R,J
-#   25,R,D,X
-#   40,R,J
-#   14,R,X
-# rejoin here
   15,R,U,C
   25,D
   14,R,D,X
