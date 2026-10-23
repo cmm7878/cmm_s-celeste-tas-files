@@ -1,4 +1,4 @@
-RecordCount: 1012
+RecordCount: 1083
 
 console load DarkLeviathan8/LeviathansUltras/LeviathansUltras
    1
@@ -417,27 +417,40 @@ EndStunPause
   42,R,K
   10,R,U,X
    5,R,J,G
-   8,R,D
+  12,R
    4,R,J
-   9,R
-   5,R,D,X
+   7,R
   40
 
 #lvl_levultras-17
-   7,R,D,X
+   7,R
+   8,R,D,X
+   6,R,K,G
+  12,R
+   5,R,J,G
+   1,R
+  11,R,D,X
    4,R,J
-   1,R,K,G
-   3,R
   11,R,D,X
-   3,R,J
-  10,R,K,G
-  14,R,D,X
-   1,R,J
-  11,R,D,X
-   1,R,J
-  25,R,D,X
-  40,R,J
+   4,R,J
+  22,R,D,X
+  39,R,J
   15,R,X
+
+#    4,R,J
+#    1,R,K,G
+#    3,R
+#   11,R,D,X
+#    3,R,J
+#   10,R,K,G
+#   14,R,D,X
+#    1,R,J
+#   11,R,D,X
+#    1,R,J
+#   25,R,D,X
+#   40,R,J
+#   14,R,X
+# rejoin here
   15,R,U,C
   25,D
   14,R,D,X
@@ -489,4 +502,4 @@ EndStunPause
    9,R,J
  147,U,X
 
-ChapterTime: 2:01.907(7171)
+ChapterTime: 2:01.890(7170)
